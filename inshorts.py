@@ -1,3 +1,5 @@
+#inshorts module contains Inshorts class.
+#inshorts class will be used to fetch the news from inshorts.com as API response for it's instance.
 
 # standard library's
 import requests
