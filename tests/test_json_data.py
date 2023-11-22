@@ -23,12 +23,8 @@ json_response = {
                     "shortened_url": "https://shrts.in/VEmZi",
                     "created_at": 1700561009000,
                     "score": 800,
-                    "category_names": [
-                        "national"
-                    ],
-                    "relevancy_tags": [
-                        "crime"
-                    ],
+                    "category_names": ["national"],
+                    "relevancy_tags": ["crime"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
@@ -43,23 +39,12 @@ json_response = {
                     "bottom_panel_link": "https://www.news18.com/amp/india/ups-19-yr-old-woman-hacked-to-death-by-two-brothers-one-of-them-had-raped-her-3-years-ago-8670566.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "bottom_type": "DEFAULT",
                     "byline_1": [
-                        {
-                            "type": "TEXT",
-                            "text": "swipe left for more at News18 / "
-                        },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TEXT", "text": "swipe left for more at News18 / "},
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Deepika Bhatt"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Deepika Bhatt"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -80,14 +65,14 @@ json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 15500,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             }
         ],
         "reload_required": True,
-        "feed_type": "svd"
+        "feed_type": "svd",
     },
-    "error": False
+    "error": False,
 }
 
 category_news_json_response = {
@@ -115,19 +100,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/cB8mH",
                     "created_at": 1700549156000,
                     "score": 600,
-                    "category_names": [
-                        "business",
-                        "startup"
-                    ],
+                    "category_names": ["business", "startup"],
                     "relevancy_tags": [],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.5,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "EV startup Baaz Bikes raises $8M funding",
@@ -138,20 +118,16 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at YourStory.com / "
+                            "text": "swipe left for more at YourStory.com / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at YourStory.com / "
+                            "text": "swipe left for more at YourStory.com / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -171,8 +147,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 1,
@@ -184,7 +160,7 @@ category_news_json_response = {
                     "old_hash_id": "stop-behaving-like-elitist-punks-mittal-to-openai-cofounder-ilya-1700498909075",
                     "hash_id": "jn7btqxn-1",
                     "author_name": "Mansi Agarwal",
-                    "content": "Shaadi.com Founder Anupam Mittal asked OpenAI's Co-founder Ilya Sutskever to \"stop behaving like elitist punks\" after he said he regretted his participation in the board's actions. \"Hat-tip to Satya Nadella for pulling one of the biggest coups of history...by hiring Sam Altman,\" Mittal further stated. \"Watch Elon Musk and Mark Zuckerberg as they circle a depleted OpenAI,\" he added.",
+                    "content": 'Shaadi.com Founder Anupam Mittal asked OpenAI\'s Co-founder Ilya Sutskever to "stop behaving like elitist punks" after he said he regretted his participation in the board\'s actions. "Hat-tip to Satya Nadella for pulling one of the biggest coups of history...by hiring Sam Altman," Mittal further stated. "Watch Elon Musk and Mark Zuckerberg as they circle a depleted OpenAI," he added.',
                     "source_url": "https://twitter.com/AnupamMittal/status/1726605184879730894?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "Stop behaving like elitist punks: Mittal to OpenAI Co-founder Ilya",
@@ -193,22 +169,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/RjG67",
                     "created_at": 1700498909000,
                     "score": 600,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "OpenAI board fired Altman as CEO",
@@ -221,21 +189,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Mansi Agarwal"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Mansi Agarwal"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -254,8 +214,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 2,
@@ -267,7 +227,7 @@ category_news_json_response = {
                     "old_hash_id": "microsoft-offers-jobs-to-all-openai-employees-report-1700493378508",
                     "hash_id": "k3vixfrd-1",
                     "author_name": "Pragya Swastik",
-                    "content": "More than 500 OpenAI employees in a letter to the company's board sought its resignation and claimed, \"We may choose to resign and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman.\" They added, \"Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose to join.\"",
+                    "content": 'More than 500 OpenAI employees in a letter to the company\'s board sought its resignation and claimed, "We may choose to resign and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman." They added, "Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose to join."',
                     "source_url": "https://www.hindustantimes.com/technology/over-500-openai-employees-threaten-to-quit-removal-of-all-board-members-sam-altman-microsoft-101700489884495-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "Hindustan Times",
                     "title": "Microsoft offers jobs to all OpenAI employees: Report",
@@ -276,24 +236,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/YF71z",
                     "created_at": 1700493378000,
                     "score": 800,
-                    "category_names": [
-                        "business",
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology",
-                        "business"
-                    ],
+                    "category_names": ["business", "startup", "technology"],
+                    "relevancy_tags": ["startup", "technology", "business"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 12.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "OpenAI CEO Sam Altman was fired by board",
@@ -306,21 +256,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Hindustan Times / "
+                            "text": "swipe left for more at Hindustan Times / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Pragya Swastik"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Pragya Swastik"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -339,8 +281,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 3,
@@ -352,7 +294,7 @@ category_news_json_response = {
                     "old_hash_id": "satya-added-value-worth-amazon-tesla-to-microsoft-in-10-yrs-bahl-1700491443769",
                     "hash_id": "zpehbuxd-1",
                     "author_name": "Mansi Agarwal",
-                    "content": "Snapdeal Co-founder Kunal Bahl called Microsoft CEO Satya Nadella \"the greatest business person of this generation\" amid OpenAI's ex-CEO Sam Altman joining the company. \"[Satya] has taken Microsoft's market cap from $300 billion to $2.8 trillion,\" Bahl said. \"To put it in context, Satya has added an Amazon and a Tesla to Microsoft in 10 years!\" he added.",
+                    "content": 'Snapdeal Co-founder Kunal Bahl called Microsoft CEO Satya Nadella "the greatest business person of this generation" amid OpenAI\'s ex-CEO Sam Altman joining the company. "[Satya] has taken Microsoft\'s market cap from $300 billion to $2.8 trillion," Bahl said. "To put it in context, Satya has added an Amazon and a Tesla to Microsoft in 10 years!" he added.',
                     "source_url": "https://twitter.com/1kunalbahl/status/1726553735382581483?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "Satya added value worth Amazon, Tesla to Microsoft in 10 yrs: Bahl",
@@ -361,22 +303,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/nkcJw",
                     "created_at": 1700491443000,
                     "score": 600,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Microsoft is one of OpenAI's investors",
@@ -387,21 +321,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Mansi Agarwal"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Mansi Agarwal"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -420,8 +346,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 4,
@@ -442,22 +368,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/XgRcd",
                     "created_at": 1700490649000,
                     "score": 1000,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 15.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "'You are incapable of overseeing OpenAI'",
@@ -468,23 +386,12 @@ category_news_json_response = {
                     "footer_deck_id": "2c3nrl3V_hashtag",
                     "footer_deck_tag_label": "#OpenAIFiresCEOSamAltman",
                     "byline_1": [
-                        {
-                            "type": "TEXT",
-                            "text": "swipe left for more at Reuters / "
-                        },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TEXT", "text": "swipe left for more at Reuters / "},
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Pragya Swastik"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Pragya Swastik"},
                     ],
                     "version": 6,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -503,8 +410,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 5,
@@ -516,7 +423,7 @@ category_news_json_response = {
                     "old_hash_id": "i-deeply-regret-my-participation-in-boards-actions-openai-cofounder-ilya-1700488535455",
                     "hash_id": "86yy63cg-1",
                     "author_name": "Pragya Swastik",
-                    "content": "OpenAI's Co-founder Ilya Sutskever on Monday posted on X, \"I deeply regret my participation in the board's actions.\" He added, \"I love everything we've built together and I will do everything I can to reunite the company.\" Earlier, OpenAI's board fired CEO Sam Altman saying it \"no longer has confidence\" in his ability to continue leading OpenAI.",
+                    "content": 'OpenAI\'s Co-founder Ilya Sutskever on Monday posted on X, "I deeply regret my participation in the board\'s actions." He added, "I love everything we\'ve built together and I will do everything I can to reunite the company." Earlier, OpenAI\'s board fired CEO Sam Altman saying it "no longer has confidence" in his ability to continue leading OpenAI.',
                     "source_url": "https://x.com/ilyasut/status/1726590052392956028?s=20&utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "I deeply regret my participation in board's actions: OpenAI Co-founder Ilya",
@@ -525,22 +432,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/gM975",
                     "created_at": 1700488535000,
                     "score": 1000,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 15.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Fired OpenAI CEO Sam Altman to join Microsoft",
@@ -553,21 +452,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Pragya Swastik"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Pragya Swastik"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -586,8 +477,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 6,
@@ -608,20 +499,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/6oYTd",
                     "created_at": 1700482123000,
                     "score": 600,
-                    "category_names": [
-                        "business",
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["business", "startup", "technology"],
                     "relevancy_tags": [],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Nykaa Shares Surge 11% Intraday On Friday",
@@ -632,20 +517,16 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Inc42 Media / "
+                            "text": "swipe left for more at Inc42 Media / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Inc42 Media / "
+                            "text": "swipe left for more at Inc42 Media / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -664,8 +545,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 7,
@@ -677,7 +558,7 @@ category_news_json_response = {
                     "old_hash_id": "satya-nadella-for-the-win-musk-on-sam-altman-joining-microsoft-1700479835925",
                     "hash_id": "5jthcouk-1",
                     "author_name": "Mansi Agarwal",
-                    "content": "World's richest man Elon Musk reacted to OpenAI's former CEO Sam Altman joining Microsoft and called it \"wild times\". \"Satya [Nadella] for the win,\" Musk stated. Microsoft CEO Nadella on Monday announced that Altman will become CEO of a new advanced AI research team within Microsoft and OpenAI's ex-President Greg Brockman will also be a part of the group.",
+                    "content": 'World\'s richest man Elon Musk reacted to OpenAI\'s former CEO Sam Altman joining Microsoft and called it "wild times". "Satya [Nadella] for the win," Musk stated. Microsoft CEO Nadella on Monday announced that Altman will become CEO of a new advanced AI research team within Microsoft and OpenAI\'s ex-President Greg Brockman will also be a part of the group.',
                     "source_url": "https://twitter.com/elonmusk/status/1726540022571299281?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "Satya Nadella for the win: Musk on Sam Altman joining Microsoft",
@@ -686,24 +567,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/aEjB6",
                     "created_at": 1700479835000,
                     "score": 600,
-                    "category_names": [
-                        "business",
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "business",
-                        "technology",
-                        "startup"
-                    ],
+                    "category_names": ["business", "startup", "technology"],
+                    "relevancy_tags": ["business", "technology", "startup"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "'Public must know why OpenAI fired Altman'",
@@ -716,21 +587,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Mansi Agarwal"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Mansi Agarwal"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -749,8 +612,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 8,
@@ -762,7 +625,7 @@ category_news_json_response = {
                     "old_hash_id": "openai-is-nothing-without-its-people-post-employees-as-altman-joins-microsoft-1700479680992",
                     "hash_id": "qgzdwyci-1",
                     "author_name": "Hiral Goyal",
-                    "content": "Several employees of OpenAI took to X to post \"OpenAI is nothing without its people,\" after its fired CEO Sam Altman was hired by Microsoft to lead a new advanced AI research team. Senior executives, including OpenAI's CTO Mira Murati and COO Brad Lightcap, also posted the same. ",
+                    "content": 'Several employees of OpenAI took to X to post "OpenAI is nothing without its people," after its fired CEO Sam Altman was hired by Microsoft to lead a new advanced AI research team. Senior executives, including OpenAI\'s CTO Mira Murati and COO Brad Lightcap, also posted the same. ',
                     "source_url": "https://twitter.com/miramurati/status/1726542556203483392?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "'OpenAI is nothing without its people,' post employees as Altman joins Microsoft",
@@ -771,22 +634,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/3Le77",
                     "created_at": 1700479680000,
                     "score": 800,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 12.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Altman responded to the posts with a heart emoji",
@@ -799,21 +654,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Hiral Goyal"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Hiral Goyal"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -832,8 +679,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 9,
@@ -854,20 +701,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/ZgPwb",
                     "created_at": 1700479422000,
                     "score": 600,
-                    "category_names": [
-                        "business",
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["business", "startup", "technology"],
                     "relevancy_tags": [],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Purple Style Lab's $14 Mn Funding Round",
@@ -878,20 +719,16 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Inc42 Media / "
+                            "text": "swipe left for more at Inc42 Media / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Inc42 Media / "
+                            "text": "swipe left for more at Inc42 Media / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -910,9 +747,9 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
-            }
+                    "is_similar_feed_available": False,
+                },
+            },
         ],
         "news_list": [
             {
@@ -934,19 +771,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/cB8mH",
                     "created_at": 1700549156000,
                     "score": 600,
-                    "category_names": [
-                        "business",
-                        "startup"
-                    ],
+                    "category_names": ["business", "startup"],
                     "relevancy_tags": [],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.5,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "EV startup Baaz Bikes raises $8M funding",
@@ -957,20 +789,16 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at YourStory.com / "
+                            "text": "swipe left for more at YourStory.com / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at YourStory.com / "
+                            "text": "swipe left for more at YourStory.com / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -990,8 +818,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 1,
@@ -1003,7 +831,7 @@ category_news_json_response = {
                     "old_hash_id": "stop-behaving-like-elitist-punks-mittal-to-openai-cofounder-ilya-1700498909075",
                     "hash_id": "jn7btqxn-1",
                     "author_name": "Mansi Agarwal",
-                    "content": "Shaadi.com Founder Anupam Mittal asked OpenAI's Co-founder Ilya Sutskever to \"stop behaving like elitist punks\" after he said he regretted his participation in the board's actions. \"Hat-tip to Satya Nadella for pulling one of the biggest coups of history...by hiring Sam Altman,\" Mittal further stated. \"Watch Elon Musk and Mark Zuckerberg as they circle a depleted OpenAI,\" he added.",
+                    "content": 'Shaadi.com Founder Anupam Mittal asked OpenAI\'s Co-founder Ilya Sutskever to "stop behaving like elitist punks" after he said he regretted his participation in the board\'s actions. "Hat-tip to Satya Nadella for pulling one of the biggest coups of history...by hiring Sam Altman," Mittal further stated. "Watch Elon Musk and Mark Zuckerberg as they circle a depleted OpenAI," he added.',
                     "source_url": "https://twitter.com/AnupamMittal/status/1726605184879730894?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "Stop behaving like elitist punks: Mittal to OpenAI Co-founder Ilya",
@@ -1012,22 +840,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/RjG67",
                     "created_at": 1700498909000,
                     "score": 600,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "OpenAI board fired Altman as CEO",
@@ -1040,21 +860,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Mansi Agarwal"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Mansi Agarwal"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -1073,8 +885,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 2,
@@ -1086,7 +898,7 @@ category_news_json_response = {
                     "old_hash_id": "microsoft-offers-jobs-to-all-openai-employees-report-1700493378508",
                     "hash_id": "k3vixfrd-1",
                     "author_name": "Pragya Swastik",
-                    "content": "More than 500 OpenAI employees in a letter to the company's board sought its resignation and claimed, \"We may choose to resign and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman.\" They added, \"Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose to join.\"",
+                    "content": 'More than 500 OpenAI employees in a letter to the company\'s board sought its resignation and claimed, "We may choose to resign and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman." They added, "Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose to join."',
                     "source_url": "https://www.hindustantimes.com/technology/over-500-openai-employees-threaten-to-quit-removal-of-all-board-members-sam-altman-microsoft-101700489884495-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "Hindustan Times",
                     "title": "Microsoft offers jobs to all OpenAI employees: Report",
@@ -1095,24 +907,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/YF71z",
                     "created_at": 1700493378000,
                     "score": 800,
-                    "category_names": [
-                        "business",
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology",
-                        "business"
-                    ],
+                    "category_names": ["business", "startup", "technology"],
+                    "relevancy_tags": ["startup", "technology", "business"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 12.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "OpenAI CEO Sam Altman was fired by board",
@@ -1125,21 +927,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Hindustan Times / "
+                            "text": "swipe left for more at Hindustan Times / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Pragya Swastik"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Pragya Swastik"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -1158,8 +952,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 3,
@@ -1171,7 +965,7 @@ category_news_json_response = {
                     "old_hash_id": "satya-added-value-worth-amazon-tesla-to-microsoft-in-10-yrs-bahl-1700491443769",
                     "hash_id": "zpehbuxd-1",
                     "author_name": "Mansi Agarwal",
-                    "content": "Snapdeal Co-founder Kunal Bahl called Microsoft CEO Satya Nadella \"the greatest business person of this generation\" amid OpenAI's ex-CEO Sam Altman joining the company. \"[Satya] has taken Microsoft's market cap from $300 billion to $2.8 trillion,\" Bahl said. \"To put it in context, Satya has added an Amazon and a Tesla to Microsoft in 10 years!\" he added.",
+                    "content": 'Snapdeal Co-founder Kunal Bahl called Microsoft CEO Satya Nadella "the greatest business person of this generation" amid OpenAI\'s ex-CEO Sam Altman joining the company. "[Satya] has taken Microsoft\'s market cap from $300 billion to $2.8 trillion," Bahl said. "To put it in context, Satya has added an Amazon and a Tesla to Microsoft in 10 years!" he added.',
                     "source_url": "https://twitter.com/1kunalbahl/status/1726553735382581483?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "Satya added value worth Amazon, Tesla to Microsoft in 10 yrs: Bahl",
@@ -1180,22 +974,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/nkcJw",
                     "created_at": 1700491443000,
                     "score": 600,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Microsoft is one of OpenAI's investors",
@@ -1206,21 +992,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Mansi Agarwal"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Mansi Agarwal"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -1239,8 +1017,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 4,
@@ -1261,22 +1039,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/XgRcd",
                     "created_at": 1700490649000,
                     "score": 1000,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 15.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "'You are incapable of overseeing OpenAI'",
@@ -1287,23 +1057,12 @@ category_news_json_response = {
                     "footer_deck_id": "2c3nrl3V_hashtag",
                     "footer_deck_tag_label": "#OpenAIFiresCEOSamAltman",
                     "byline_1": [
-                        {
-                            "type": "TEXT",
-                            "text": "swipe left for more at Reuters / "
-                        },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TEXT", "text": "swipe left for more at Reuters / "},
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Pragya Swastik"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Pragya Swastik"},
                     ],
                     "version": 6,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -1322,8 +1081,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 5,
@@ -1335,7 +1094,7 @@ category_news_json_response = {
                     "old_hash_id": "i-deeply-regret-my-participation-in-boards-actions-openai-cofounder-ilya-1700488535455",
                     "hash_id": "86yy63cg-1",
                     "author_name": "Pragya Swastik",
-                    "content": "OpenAI's Co-founder Ilya Sutskever on Monday posted on X, \"I deeply regret my participation in the board's actions.\" He added, \"I love everything we've built together and I will do everything I can to reunite the company.\" Earlier, OpenAI's board fired CEO Sam Altman saying it \"no longer has confidence\" in his ability to continue leading OpenAI.",
+                    "content": 'OpenAI\'s Co-founder Ilya Sutskever on Monday posted on X, "I deeply regret my participation in the board\'s actions." He added, "I love everything we\'ve built together and I will do everything I can to reunite the company." Earlier, OpenAI\'s board fired CEO Sam Altman saying it "no longer has confidence" in his ability to continue leading OpenAI.',
                     "source_url": "https://x.com/ilyasut/status/1726590052392956028?s=20&utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "I deeply regret my participation in board's actions: OpenAI Co-founder Ilya",
@@ -1344,22 +1103,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/gM975",
                     "created_at": 1700488535000,
                     "score": 1000,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 15.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Fired OpenAI CEO Sam Altman to join Microsoft",
@@ -1372,21 +1123,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Pragya Swastik"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Pragya Swastik"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -1405,8 +1148,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 6,
@@ -1427,20 +1170,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/6oYTd",
                     "created_at": 1700482123000,
                     "score": 600,
-                    "category_names": [
-                        "business",
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["business", "startup", "technology"],
                     "relevancy_tags": [],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Nykaa Shares Surge 11% Intraday On Friday",
@@ -1451,20 +1188,16 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Inc42 Media / "
+                            "text": "swipe left for more at Inc42 Media / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Inc42 Media / "
+                            "text": "swipe left for more at Inc42 Media / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -1483,8 +1216,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 7,
@@ -1496,7 +1229,7 @@ category_news_json_response = {
                     "old_hash_id": "satya-nadella-for-the-win-musk-on-sam-altman-joining-microsoft-1700479835925",
                     "hash_id": "5jthcouk-1",
                     "author_name": "Mansi Agarwal",
-                    "content": "World's richest man Elon Musk reacted to OpenAI's former CEO Sam Altman joining Microsoft and called it \"wild times\". \"Satya [Nadella] for the win,\" Musk stated. Microsoft CEO Nadella on Monday announced that Altman will become CEO of a new advanced AI research team within Microsoft and OpenAI's ex-President Greg Brockman will also be a part of the group.",
+                    "content": 'World\'s richest man Elon Musk reacted to OpenAI\'s former CEO Sam Altman joining Microsoft and called it "wild times". "Satya [Nadella] for the win," Musk stated. Microsoft CEO Nadella on Monday announced that Altman will become CEO of a new advanced AI research team within Microsoft and OpenAI\'s ex-President Greg Brockman will also be a part of the group.',
                     "source_url": "https://twitter.com/elonmusk/status/1726540022571299281?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "Satya Nadella for the win: Musk on Sam Altman joining Microsoft",
@@ -1505,24 +1238,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/aEjB6",
                     "created_at": 1700479835000,
                     "score": 600,
-                    "category_names": [
-                        "business",
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "business",
-                        "technology",
-                        "startup"
-                    ],
+                    "category_names": ["business", "startup", "technology"],
+                    "relevancy_tags": ["business", "technology", "startup"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "'Public must know why OpenAI fired Altman'",
@@ -1535,21 +1258,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Mansi Agarwal"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Mansi Agarwal"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -1568,8 +1283,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 8,
@@ -1581,7 +1296,7 @@ category_news_json_response = {
                     "old_hash_id": "openai-is-nothing-without-its-people-post-employees-as-altman-joins-microsoft-1700479680992",
                     "hash_id": "qgzdwyci-1",
                     "author_name": "Hiral Goyal",
-                    "content": "Several employees of OpenAI took to X to post \"OpenAI is nothing without its people,\" after its fired CEO Sam Altman was hired by Microsoft to lead a new advanced AI research team. Senior executives, including OpenAI's CTO Mira Murati and COO Brad Lightcap, also posted the same. ",
+                    "content": 'Several employees of OpenAI took to X to post "OpenAI is nothing without its people," after its fired CEO Sam Altman was hired by Microsoft to lead a new advanced AI research team. Senior executives, including OpenAI\'s CTO Mira Murati and COO Brad Lightcap, also posted the same. ',
                     "source_url": "https://twitter.com/miramurati/status/1726542556203483392?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
                     "source_name": "X (formerly Twitter)",
                     "title": "'OpenAI is nothing without its people,' post employees as Altman joins Microsoft",
@@ -1590,22 +1305,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/3Le77",
                     "created_at": 1700479680000,
                     "score": 800,
-                    "category_names": [
-                        "startup",
-                        "technology"
-                    ],
-                    "relevancy_tags": [
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["startup", "technology"],
+                    "relevancy_tags": ["startup", "technology"],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 12.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Altman responded to the posts with a heart emoji",
@@ -1618,21 +1325,13 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at X (formerly Twitter) / "
+                            "text": "swipe left for more at X (formerly Twitter) / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
-                        {
-                            "type": "TEXT",
-                            "text": "short by "
-                        },
-                        {
-                            "type": "TEXT",
-                            "text": "Hiral Goyal"
-                        }
+                        {"type": "TEXT", "text": "short by "},
+                        {"type": "TEXT", "text": "Hiral Goyal"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -1651,8 +1350,8 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
+                    "is_similar_feed_available": False,
+                },
             },
             {
                 "rank": 9,
@@ -1673,20 +1372,14 @@ category_news_json_response = {
                     "shortened_url": "https://shrts.in/ZgPwb",
                     "created_at": 1700479422000,
                     "score": 600,
-                    "category_names": [
-                        "business",
-                        "startup",
-                        "technology"
-                    ],
+                    "category_names": ["business", "startup", "technology"],
                     "relevancy_tags": [],
                     "tenant": "ENGLISH",
                     "fb_object_id": "",
                     "fb_like_count": 0,
                     "country_code": "IN",
                     "impressive_score": 10.71,
-                    "targeted_city": [
-                        ""
-                    ],
+                    "targeted_city": [""],
                     "gallery_image_urls": [],
                     "full_gallery_urls": [],
                     "bottom_headline": "Purple Style Lab's $14 Mn Funding Round",
@@ -1697,20 +1390,16 @@ category_news_json_response = {
                     "byline_1": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Inc42 Media / "
+                            "text": "swipe left for more at Inc42 Media / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "byline_2": [
                         {
                             "type": "TEXT",
-                            "text": "swipe left for more at Inc42 Media / "
+                            "text": "swipe left for more at Inc42 Media / ",
                         },
-                        {
-                            "type": "TIME"
-                        }
+                        {"type": "TIME"},
                     ],
                     "version": 0,
                     "position_start_time": "1970-01-01T00:00:00Z",
@@ -1729,10 +1418,10 @@ category_news_json_response = {
                     "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
                     "show_in_video_feed_only": False,
                     "similar_threshold": 0,
-                    "is_similar_feed_available": False
-                }
-            }
-        ]
+                    "is_similar_feed_available": False,
+                },
+            },
+        ],
     },
-    "error": False
+    "error": False,
 }
